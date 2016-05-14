@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\pre-dexed\debug\classes-f54cc63a0b04a97a1be63e37e079ca455f0c597c.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\pre-dexed\debug\classes-55f6163d7e9aaab09c7a1f705ddbb588c8a340cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0da132569d0229021868bf88bd0c95a1ba1269ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\usuario\AndroidStudioProjects\lectorNFC\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-05da70384023d8b1c6d47bff8d1225502ae0dc57.jar" />
+    </item>
+
+</items>
